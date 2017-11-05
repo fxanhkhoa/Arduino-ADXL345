@@ -7,7 +7,7 @@
 */
 
 #include <Wire.h>
-#include <ADXL345.h>
+#include "ADXL345.h"
 
 ADXL345 accelerometer;
 
